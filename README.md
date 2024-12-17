@@ -77,4 +77,4 @@ The implementation was done using TensorFlow/Keras in Python.
 [My dataset](https://drive.google.com/file/d/1SMC4obcZ7D3iH7BRVwyFRV3Rj_gvv4n7/view?usp=drive_link)
 
 # 7. Medium Link:  
-[Medium Post](https://drive.google.com/file/d/1SMC4obcZ7D3iH7BRVwyFRV3Rj_gvv4n7/view?usp=drive_link)
+[Medium Post](https://medium.com/@ftm.abbasi_98708/cat-vs-dog-image-classification-using-cnn-841d999d59c4)
