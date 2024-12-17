@@ -73,5 +73,8 @@ The image dataset was sourced for educational purposes.
 The project was completed as part of a machine learning class project.
 The implementation was done using TensorFlow/Keras in Python.
 
-# 6. dataset link:  
+# 6. Dataset Link:  
 [My dataset](https://drive.google.com/file/d/1SMC4obcZ7D3iH7BRVwyFRV3Rj_gvv4n7/view?usp=drive_link)
+
+# 7. Medium Link:  
+[Medium Post](https://drive.google.com/file/d/1SMC4obcZ7D3iH7BRVwyFRV3Rj_gvv4n7/view?usp=drive_link)
